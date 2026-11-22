@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.norind.optcgscan",
+      "sha256_cert_fingerprints": [
+        "3A:B8:38:6F:94:EC:6D:1D:C5:A7:82:2B:F0:F6:DC:EB:E0:50:A3:75:D1:EB:4E:15:3C:80:0F:1D:29:67:E2:4B"
+      ]
+    }
+  }
+]
